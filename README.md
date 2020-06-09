@@ -1,7 +1,7 @@
 # Permutations
 - write a function that take in an array of unique integers and return an array of all permutations of those integers, which no specify order
 - if the input array is empty, the function should return an empty array
-#Solution:
+# Solution
 - create an variable to hold all permutation posible
 - start as the first index, call the pemutation helper with 3 parameter index, array, permutation
 - if idex is last index add to permutation
